@@ -39,37 +39,3 @@ install.packages('gtools')
 update.packages(oldPkgs = 'PACKAGE NAME')
 
 remove.packages('gtools')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
